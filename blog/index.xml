@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Hugo Future Imperfect</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Hugo Future Imperfect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kaggle Bike Sharing Demand</title>
+      <link>/blog/austin-contruction/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/austin-contruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaggle Bike Sharing Demand</title>
+      <link>/blog/kaggle-bike-sharing-demand/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/kaggle-bike-sharing-demand/</guid>
+      <description>A public bicycle-sharing system is a service in which bicycles are made available for a shared use to individuals on a very short-term basis. A bike-sharing system is comprised of a network of kiosks throughout a city which allows a participant to check-out a bike at one location and return it to a different location. Participants of a bike-sharing system can rent bikes on an as-needed basis and are charged for the duration of rental.</description>
+    </item>
+    
+    <item>
+      <title>Where does my stuff come from?</title>
+      <link>/blog/freight-movement-patterns/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/freight-movement-patterns/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

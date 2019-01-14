@@ -1,2 +1,0 @@
-# workingwheatleys.github.io
-Blog
