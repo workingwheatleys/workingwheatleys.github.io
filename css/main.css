@@ -1385,6 +1385,7 @@
 			-webkit-align-items: center;
 			-ms-align-items: center;
 			align-items: center;
+			flex-direction: column;			
 		}
 
 			.post > footer .actions {

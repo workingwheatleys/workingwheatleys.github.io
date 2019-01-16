@@ -18,23 +18,43 @@
   </url>
   
   <url>
-    <loc>/itemized/item1/</loc>
+    <loc>/data-science/item2/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/itemized/item2/</loc>
+    <loc>/data-science/item3/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/itemized/item3/</loc>
+    <loc>/fitness/item2/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/itemized/item4/</loc>
+    <loc>/fitness/item3/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/my-airbnb/item2/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/my-airbnb/item3/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/goodbye-atlanta/</loc>
+    <lastmod>2014-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel/just-the-beginning/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -65,19 +85,37 @@
   </url>
   
   <url>
+    <loc>/data-science/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/fitness/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-01-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/itemized/</loc>
+    <loc>/my-airbnb/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/travel/</loc>
+    <lastmod>2014-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -102,6 +140,24 @@
   <url>
     <loc>/tags/pyton/</loc>
     <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/travel/</loc>
+    <lastmod>2014-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/traveling-the-world/</loc>
+    <lastmod>2014-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/unemployed/</loc>
+    <lastmod>2014-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

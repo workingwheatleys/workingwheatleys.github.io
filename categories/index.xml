@@ -38,13 +38,13 @@
       <description></description>
     </item>
     
-  </channel>
-</rss> 4</title>
-      <link>/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+    <item>
+      <title>travel</title>
+      <link>/categories/travel/</link>
+      <pubDate>Sat, 07 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/itemized/item4/</guid>
-      <description> App 4 </description>
+      <guid>/categories/travel/</guid>
+      <description></description>
     </item>
     
   </channel>
