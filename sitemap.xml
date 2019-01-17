@@ -3,57 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/austin-contruction/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/itemized/fitness2/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/kaggle-bike-sharing-demand/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/itemized/ds2/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/freight-movement-patterns/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/data-science/item2/</loc>
+    <loc>/itemized/ds1/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/data-science/item3/</loc>
+    <loc>/itemized/fitness1/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/fitness/item2/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>/itemized/airbnb2/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/fitness/item3/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>/itemized/airbnb1/</loc>
+    <lastmod>2016-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/my-airbnb/item2/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/my-airbnb/item3/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/travel/goodbye-atlanta/</loc>
+    <loc>/itemized/goodbye-atlanta/</loc>
     <lastmod>2014-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/travel/just-the-beginning/</loc>
+    <loc>/itemized/just-the-beginning/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,19 +49,6 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,26 +57,8 @@
   </url>
   
   <url>
-    <loc>/data-science/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/fitness/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/my-airbnb/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>/itemized/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -114,32 +68,26 @@
   </url>
   
   <url>
-    <loc>/travel/</loc>
-    <lastmod>2014-06-07T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/data-science/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/forecasting/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/categories/fitness/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/modeling/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pyton/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+    <loc>/categories/my-airbnb/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>traveling the world on Hugo Future Imperfect</title>
+    <title>traveling the world on Working Wheatleys</title>
     <link>/tags/traveling-the-world/</link>
-    <description>Recent content in traveling the world on Hugo Future Imperfect</description>
+    <description>Recent content in traveling the world on Working Wheatleys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jun 2014 00:00:00 +0000</lastBuildDate>
@@ -13,19 +13,19 @@
     
     <item>
       <title>Goodbye, ATL! Hola, São Paulo!</title>
-      <link>/travel/goodbye-atlanta/</link>
+      <link>/itemized/goodbye-atlanta/</link>
       <pubDate>Sat, 07 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/travel/goodbye-atlanta/</guid>
+      <guid>/itemized/goodbye-atlanta/</guid>
       <description>Don’t think of it as goodbye, think of it as see you later. This won’t be the last time I hang my hat in the dirty south.</description>
     </item>
     
     <item>
       <title>Just the Beginning</title>
-      <link>/travel/just-the-beginning/</link>
+      <link>/itemized/just-the-beginning/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/travel/just-the-beginning/</guid>
+      <guid>/itemized/just-the-beginning/</guid>
       <description>My life is at an interesting point right now. I am unemployed and I am essentially homeless. Most of my belongings have been packed up and hidden away – maybe for a year or two or more. It’s very exciting to be starting on this trip. Michael and I have been planning it for years and it’s hard to believe that it has finally come together. Here are some of the preparations we made before leaving the country.</description>
     </item>
     
