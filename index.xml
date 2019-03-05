@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>DS 1</title>
+      <link>/itemized/rl/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/itemized/rl/</guid>
+      <description> Job Salaries This visualization shows salaries from the past 5 years.
+Salaries are grouped by &#34;experience qualifiers&#34; on the job titles and &#34;no_value&#34; indicates a job has no experience qualifiers.
+The bars show lower quartile, upper quartile, and median. The tooltip gives additional metrics.
+      </description>
+    </item>
+    
+    <item>
       <title>Fitness 2</title>
       <link>/itemized/fitness2/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
