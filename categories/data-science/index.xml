@@ -6,17 +6,17 @@
     <description>Recent content in data science on Working Wheatleys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>DS 1</title>
-      <link>/itemized/rl/</link>
-      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Job Salary Viz</title>
+      <link>/itemized/salry_chart/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/itemized/rl/</guid>
+      <guid>/itemized/salry_chart/</guid>
       <description> Job Salaries This visualization shows salaries from the past 5 years.
 Salaries are grouped by &#34;experience qualifiers&#34; on the job titles and &#34;no_value&#34; indicates a job has no experience qualifiers.
 The bars show lower quartile, upper quartile, and median. The tooltip gives additional metrics.

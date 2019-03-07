@@ -56,8 +56,8 @@ var margin = {top: 100, right: 100, bottom: 100, left: 120},
 // Create SVG
 var svg = d3.select("#graph")
         .append("svg")
-        .style("width", 1000 + "px")
-        .style("height", 1000 + "px")
+        .style("width", 750 + "px")
+        .style("height", 750 + "px")
         .attr("width", 1000)
         .attr("height", 1000)
         .append("g")
