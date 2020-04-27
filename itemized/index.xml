@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Itemized on Working Wheatleys</title>
@@ -17,7 +17,10 @@
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/itemized/salry_chart/</guid>
-      <description></description>
+      <description> Job Salaries This visualization shows salaries from the past 5 years.
+Salaries are grouped by &#34;experience qualifiers&#34; on the job titles and &#34;no_value&#34; indicates a job has no experience qualifiers.
+The bars show lower quartile, upper quartile, and median. The tooltip gives additional metrics.
+      </description>
     </item>
     
     <item>
@@ -26,7 +29,7 @@
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/itemized/fitness2/</guid>
-      <description>App 2 </description>
+      <description> App 2 </description>
     </item>
     
     <item>
@@ -35,7 +38,7 @@
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/itemized/ds2/</guid>
-      <description>App 2 </description>
+      <description> App 2 </description>
     </item>
     
     <item>
@@ -44,7 +47,7 @@
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/itemized/ds1/</guid>
-      <description>App 2 </description>
+      <description> App 2 </description>
     </item>
     
     <item>
@@ -53,7 +56,7 @@
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/itemized/fitness1/</guid>
-      <description>App 2 </description>
+      <description> App 2 </description>
     </item>
     
     <item>
@@ -62,16 +65,7 @@
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/itemized/airbnb2/</guid>
-      <description>App 2 </description>
-    </item>
-    
-    <item>
-      <title>Airbnb 3</title>
-      <link>/itemized/airbnb3/</link>
-      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/itemized/airbnb3/</guid>
-      <description>App 2 This is a test. By Keri. Thank you.</description>
+      <description> App 2 </description>
     </item>
     
     <item>
@@ -80,7 +74,7 @@
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>/itemized/airbnb1/</guid>
-      <description>App 2 </description>
+      <description> App 2 </description>
     </item>
     
     <item>
